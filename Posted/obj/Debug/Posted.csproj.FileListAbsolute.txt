@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\Posted\Posted\bin\Debug\Posted.exe
+C:\Users\Administrator\Desktop\Posted\Posted\bin\Debug\Posted.pdb
+C:\Users\Administrator\Desktop\Posted\Posted\obj\Debug\Posted.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\Posted\Posted\obj\Debug\Posted.Form1.resources
+C:\Users\Administrator\Desktop\Posted\Posted\obj\Debug\Posted.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Posted\Posted\obj\Debug\Posted.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Posted\Posted\obj\Debug\Posted.exe
+C:\Users\Administrator\Desktop\Posted\Posted\obj\Debug\Posted.pdb
